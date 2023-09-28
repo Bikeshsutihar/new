@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+h2{
+    
+    font-size: 30px;
+    font-weight: 700;
+    font-family: cursive;
+}
+.nav-link {
+    padding: 5px;
+    transition: .3s ease;
+    
+}
+
+/* p{
+    color: rebeccapurple;
+} */
+.nav-link:hover{
+    background-color:white;
+    border-radius: 5px;
+    
+    
+}
+.nav-link{
+    color: red;
+}
+input{
+    border: none;
+    padding: 10px;
+    border-bottom: 2px solid red;
+    border-left: 1px solid red;
+    border-radius: 5px;
+    color: red;
+}
+input:hover{
+    color: white;
+    background-color: red;
+
+}
+h1{
+    color: red;
+
+}
+p{
+    color: rebeccapurple;
+}
